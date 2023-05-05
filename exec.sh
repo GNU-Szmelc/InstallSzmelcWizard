@@ -16,9 +16,11 @@ OPTIONS=(1 "Post Install Config - [PIC]"
 TITLE=" [Install Szmelc] "
 
 # Set the terminal emulator to monochrome
-tput initc 7 0 0 0
-tput initc 0 1000 1000 1000
-tput initc 10 10 10 10
+# Uncomment all tput for Negative Black theme
+# Comment out remaining tput for 98-Blue theme
+# tput initc 7 0 0 0
+# tput initc 0 1000 1000 1000
+# tput initc 10 10 10 10
 tput initc 4 250 250 250
 
 # Show the menu and capture the user's selection
