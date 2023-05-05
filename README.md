@@ -10,8 +10,8 @@
 
 ## == [1] - [RUN WIZARD] ==
 > Debian / Ubuntu \
-> Open terminal and paste:
-##### `<insert bash command here>`
+> Open terminal and run:
+##### `git clone https://github.com/Shmelc-sh/SzmelcWizard.git && cd SzmelcWizard && chmod -x exec.sh && bash exec.sh`
 
 ## == [2] - [CONTRIBUTE] ==
 > Szmelc Incorporated is fully Open Source! \
