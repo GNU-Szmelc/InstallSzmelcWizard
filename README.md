@@ -1,4 +1,4 @@
-# [SzmelcWizard]
+# [InstallSzmelcWizard]
 <img src="https://i.imgur.com/sCxKLC8.png" alt="image">
 > Auto Setup Scripts \
 > [Debian] / [MX-21.3] / [antiX]
@@ -11,7 +11,7 @@
 ## == [1] - [RUN WIZARD] ==
 > Debian / Ubuntu \
 > Open terminal and run:
-##### `git clone https://github.com/Shmelc-sh/SzmelcWizard.git && cd SzmelcWizard && chmod -x exec.sh && bash exec.sh`
+##### `git clone https://github.com/Shmelc-sh/InstallSzmelcWizard.git && cd InstallSzmelcWizard && chmod -x exec.sh && bash exec.sh`
 
 ## == [2] - [CONTRIBUTE] ==
 > Szmelc Incorporated is fully Open Source! \
