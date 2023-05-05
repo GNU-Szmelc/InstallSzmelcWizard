@@ -1,6 +1,11 @@
-# [InstallSzmelcWizard]
-<img src="https://i.imgur.com/sCxKLC8.png" alt="image">
-> Auto Setup Scripts \
+# [InstallSzmelcWizard] - 
+> Debian Automation Scripts
+
+<img src="https://i.imgur.com/xfxHOZ2.png" alt="image" width="512"> \
+<img src="https://i.imgur.com/sCxKLC8.png" alt="image" width="256">
+<img src="https://i.imgur.com/ZT6ifZE.png" alt="image" width="256">
+
+> Available in Monochrome, Negative & 98-Blue
 > [Debian] / [MX-21.3] / [antiX]
 
 ## == [Contents] ==
@@ -10,8 +15,8 @@
 
 ## == [1] - [RUN WIZARD] ==
 > Debian / Ubuntu \
-> Open terminal and run:
-##### `git clone https://github.com/Shmelc-sh/InstallSzmelcWizard.git && cd InstallSzmelcWizard && chmod -x exec.sh && bash exec.sh`
+> Open terminal, paste & run:
+##### ```git clone https://github.com/Shmelc-sh/InstallSzmelcWizard.git && cd InstallSzmelcWizard && chmod -x exec.sh && bash exec.sh```
 
 ## == [2] - [CONTRIBUTE] ==
 > Szmelc Incorporated is fully Open Source! \
