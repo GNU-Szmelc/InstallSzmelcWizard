@@ -1,23 +1,24 @@
 # [InstallSzmelcWizard]
 InstallSzmelcWizard is a set of post-installation configuration and setup automation scripts for Debian-based Linux distributions. It automates the process of installing and configuring commonly used software packages, as well as configuring system settings and applying optimizations.
 
-## Features
-
+### Features
 - Easy to use GUI interface for configuration and setup (provided to you by 'dialog')
 - Automated installation of essential software packages (e.g. drivers, codecs, compilers etc)
 - Configuration of system settings (e.g. desktop env, defaults, bootloader config etc)
 - Extras by Szmelc (e.g. official wallpapers, presets for xfce4 & kde-plasma, conky widgets & more)
 
-## COMING SOON!
+#### COMING SOON!
 - Extreme optimization for potato (e.g. disabling most services, running in Shell mode, direct SSH & More)
 - Retro Szmelc OS (e.g. add ROM libraries to repos, install emulators, open-source games, SzmelcStation Network (DOS & SNES Multiplayer) & More!)
+- Translations! (more language versions! please contact me on GitHib or Discord to contribute translation <3)
+- Full i386 (x32 / x86) support (~85% packages are supported on either architecture atm)
 
-## Requirements
-
-- Debian-based Linux distribution (tested on Debian 11 and MX-21.3)
+#### Requirements
+- Debian-based Linux distribution (tested on Debian 11 / MX-21.3) [amd64]
 - Internet connection for package installation
 - `git` package, install it via APT by `sudo apt install git` for Debian based distros
 
+### [GNU] Bash & Dialog based interface:
 <img src="https://i.imgur.com/xfxHOZ2.png" alt="image" width="512"> \
 <img src="https://i.imgur.com/sCxKLC8.png" alt="image" width="256">
 <img src="https://i.imgur.com/ZT6ifZE.png" alt="image" width="256">
