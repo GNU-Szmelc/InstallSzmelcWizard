@@ -1,5 +1,22 @@
-# [InstallSzmelcWizard] - 
-> Debian Automation Scripts
+# [InstallSzmelcWizard]
+InstallSzmelcWizard is a set of post-installation configuration and setup automation scripts for Debian-based Linux distributions. It automates the process of installing and configuring commonly used software packages, as well as configuring system settings and applying optimizations.
+
+## Features
+
+- Easy to use GUI interface for configuration and setup (provided to you by 'dialog')
+- Automated installation of essential software packages (e.g. drivers, codecs, compilers etc)
+- Configuration of system settings (e.g. desktop env, defaults, bootloader config etc)
+- Extras by Szmelc (e.g. official wallpapers, presets for xfce4 & kde-plasma, conky widgets & more)
+
+## COMING SOON!
+- Extreme optimization for potato (e.g. disabling most services, running in Shell mode, direct SSH & More)
+- Retro Szmelc OS (e.g. add ROM libraries to repos, install emulators, open-source games, SzmelcStation Network (DOS & SNES Multiplayer) & More!)
+
+## Requirements
+
+- Debian-based Linux distribution (tested on Debian 11 and MX-21.3)
+- Internet connection for package installation
+- `git` package, install it via APT by `sudo apt install git` for Debian based distros
 
 <img src="https://i.imgur.com/xfxHOZ2.png" alt="image" width="512"> \
 <img src="https://i.imgur.com/sCxKLC8.png" alt="image" width="256">
@@ -33,3 +50,7 @@
 > https://discord.gg/y9h7FjVsX6 ~ Our Discord server \
 > https://github.com/serainox420 ~ My GitHub profile \
 > https://serainox420.github.io ~ My gitpage project
+
+## License
+
+InstallSzmelcWizard is released under the MIT License. See the [LICENSE](LICENSE) file for details.
