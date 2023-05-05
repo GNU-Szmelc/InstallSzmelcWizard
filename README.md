@@ -1,5 +1,10 @@
 # [InstallSzmelcWizard]
+
 InstallSzmelcWizard is a set of post-installation configuration and setup automation scripts for Debian-based Linux distributions. It automates the process of installing and configuring commonly used software packages, as well as configuring system settings and applying optimizations.
+
+## Stats
+![coverage](https://img.shields.io/badge/[x64]_amd64-100%25-green)
+![coverage](https://img.shields.io/badge/[x86]_i386-85%25-yellowgreen)
 
 ### Features
 - Easy to use GUI interface for configuration and setup (provided to you by 'dialog')
