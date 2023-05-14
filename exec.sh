@@ -6,14 +6,14 @@
 # For MX Linux / Debian 11 
 
 # Define the menu options
-OPTIONS=(1 "Post Install Config - [PIC]"
-         2 "Extra Packages & Stuff - [GIT]"
+OPTIONS=(1 "Install Packages - [APT]"
+         2 "Add repositories - [GIT]"
          3 "Docs - [README.md]"
          4 "Misc"
          E "Exit")
 
 # Define the menu title
-TITLE=" [Install Szmelc] "
+TITLE=" [Szmelc Wizard] "
 
 # Set the terminal emulator to monochrome
 # Uncomment all tput for Negative Black theme
@@ -34,7 +34,7 @@ CHOICE=$(dialog --clear \
 # Handle the user's selection
 case "$CHOICE" in
     1) # Post Install Config
-        bash pic/main.sh
+        bash apt/main.sh
         ;;
     2) # Run Script 2
         bash extra/main.sh
