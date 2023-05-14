@@ -9,6 +9,9 @@ ruby
 golang
 lolcat
 xterm
+tree
+konsole
+xfce4-terminal
 terminator
 zenity
 jq
