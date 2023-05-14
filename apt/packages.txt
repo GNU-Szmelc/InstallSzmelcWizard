@@ -1,0 +1,9 @@
+ffmpeg
+yt-dlp
+mp3blaster
+toilet
+hexchat
+eeesd
+ruby
+golang
+lolcat
