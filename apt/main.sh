@@ -35,6 +35,7 @@ case "$CHOICE" in
         ;;
     3) # List & Log all installed packages
         apt list > apt/logs/installed_packages.txt && echo "" && echo "Saved into logs/installed_packages.txt log"
+        xfce4-terminal --geometry=50x25 -e "bash -c 'apt list | lolcat; sleep 1'"
         ;;
     4) # Run Script 4
         clear && echo "[README.md]" && cat apt/README.md
@@ -44,3 +45,4 @@ case "$CHOICE" in
         ;;
 esac
 
+sleep 1 && bash exec.sh
