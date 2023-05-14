@@ -3,6 +3,9 @@ yt-dlp
 mp3blaster
 mplayer
 toilet
+sox
+beep
+lm-sensors
 hexchat
 eeesd
 ruby
