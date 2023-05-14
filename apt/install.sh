@@ -71,3 +71,4 @@ echo ""
 echo " [Success!]"
 echo "~ Output log saved into logs directory!"
 echo ""
+sleep 1 && bash exec.sh
