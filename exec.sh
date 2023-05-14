@@ -7,13 +7,13 @@
 
 # Define the menu options
 OPTIONS=(1 "Install Packages - [APT]"
-         2 "Add repositories - [GIT]"
+         2 "Add Repos & Keyrings"
          3 "Docs - [README.md]"
          4 "Misc"
          E "Exit")
 
 # Define the menu title
-TITLE=" [Szmelc Wizard] "
+TITLE=" [Install Szmelc] "
 
 # Set the terminal emulator to monochrome
 # Uncomment all tput for Negative Black theme
@@ -37,7 +37,7 @@ case "$CHOICE" in
         bash apt/main.sh
         ;;
     2) # Run Script 2
-        bash extra/main.sh
+        bash repos/main.sh
         ;;
     3) # Run Script 3
         bash docs/main.sh
