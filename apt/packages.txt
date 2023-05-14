@@ -22,6 +22,8 @@ eeesd
 ruby
 golang
 
+notion-app
+
 xterm
 xdotool
 tree
