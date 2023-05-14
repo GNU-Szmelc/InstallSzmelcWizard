@@ -5,6 +5,7 @@ mplayer
 toilet
 sox
 beep
+psensor
 lm-sensors
 hexchat
 eeesd
