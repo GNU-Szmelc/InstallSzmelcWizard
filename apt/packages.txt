@@ -12,6 +12,10 @@ lm-sensors
 hddtemp
 glances
 xsensors
+gkrellm
+powertop
+nethogs
+nmon
 
 hexchat
 eeesd
@@ -19,6 +23,7 @@ ruby
 golang
 
 xterm
+xdotool
 tree
 konsole
 xfce4-terminal
