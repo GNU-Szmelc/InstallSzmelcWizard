@@ -1,12 +1,17 @@
 ffmpeg
 yt-dlp
 mp3blaster
+mplayer
 toilet
 hexchat
 eeesd
 ruby
 golang
 lolcat
+xterm
+terminator
+zenity
+jq
 python3-pip
 python3-colorama
 python3-colour 
