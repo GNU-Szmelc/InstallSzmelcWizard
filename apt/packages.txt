@@ -16,6 +16,7 @@ gkrellm
 powertop
 nethogs
 nmon
+rclone
 
 hexchat
 eeesd
