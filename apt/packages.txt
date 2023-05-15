@@ -23,6 +23,8 @@ gt5
 filelight
 cargo
 dutree
+kdialog
+dialog
 
 hexchat
 eeesd
