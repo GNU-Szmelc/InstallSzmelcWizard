@@ -17,6 +17,7 @@ powertop
 nethogs
 nmon
 rclone
+ncdu
 
 hexchat
 eeesd
