@@ -21,6 +21,8 @@ rclone
 ncdu
 gt5
 filelight
+cargo
+dutree
 
 hexchat
 eeesd
