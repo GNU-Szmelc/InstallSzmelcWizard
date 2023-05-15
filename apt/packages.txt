@@ -6,6 +6,7 @@ toilet
 sox
 beep
 lolcat
+npm
 
 psensor
 lm-sensors
