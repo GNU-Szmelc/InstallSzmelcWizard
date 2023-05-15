@@ -18,6 +18,8 @@ nethogs
 nmon
 rclone
 ncdu
+gt5
+filelight
 
 hexchat
 eeesd
