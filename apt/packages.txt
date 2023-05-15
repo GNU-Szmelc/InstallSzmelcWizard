@@ -24,6 +24,8 @@ ruby
 golang
 
 notion-app
+google-drive-ocamlfuse
+rsync
 
 xterm
 xdotool
